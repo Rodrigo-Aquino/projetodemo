@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+#imagem{
+    width: 100%;
+    
+}
+
+h3{
+    position: absolute;
+    top: 30%;
+    left: 8%;
+    text-transform: uppercase;
+}
+
+#voltar{
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    text-transform: uppercase;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
