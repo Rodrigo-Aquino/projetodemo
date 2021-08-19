@@ -1,0 +1,39 @@
+.boasvindas{
+    text-align: center;
+    background-color: slategrey;
+    
+}
+
+#imagem{
+    width: 100%;
+    
+    
+}
+
+#continuar{
+    position: absolute;
+    top: 30%;
+    left: 4%;
+    color: slategrey;
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: slategrey;
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: inherit;
+    text-transform: uppercase;
+    
+}
+
+#frase{
+    position: absolute;
+    top: 15%;
+    left: 3%;
+}

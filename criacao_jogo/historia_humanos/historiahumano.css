@@ -1,0 +1,25 @@
+#imagem{
+    width: 100%;
+}
+
+#continuar{
+    position: absolute;
+    top: 260%;
+    left: 70%;
+    color: rgb(219, 89, 28);
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: inherit;
+    text-transform: uppercase;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(219, 89, 28);
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: inherit;
+    text-transform: uppercase;
+}
